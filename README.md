@@ -56,7 +56,7 @@ The network uses a hierarchical architecture with routers, switches, VLANs, serv
 
 The complete network topology is designed and implemented in Cisco Packet Tracer.
 
-![Bank Network Topology](topology.png)
+![Bank Network Topology](banknet.png)
 
 ## Project File
 
