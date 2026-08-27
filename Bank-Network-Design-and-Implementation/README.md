@@ -52,7 +52,7 @@ The network follows a hierarchical network architecture with multiple switches, 
 
 ## Network Topology
 
-![Bank Network Topology](topology.png)
+![Bank Network Topology](banknet.png)
 
 ## Project File
 
