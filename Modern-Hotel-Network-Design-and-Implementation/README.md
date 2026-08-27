@@ -59,7 +59,7 @@ The network consists of three routers, one switch per floor, wireless networks, 
 
 ## Network Topology
 
-![Modern Hotel Network Topology](modern-hotel-topology.png)
+![Modern Hotel Network Topology](hotelnet.png)
 
 ## Project File
 
